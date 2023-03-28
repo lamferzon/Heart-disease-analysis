@@ -1,5 +1,8 @@
 # A statistical learning model to predict heart disease predisposition through physiological parameters and habits #
 
+![Image 1](forREADME/Cover.svg)
+- [x] *Trend of the misclassification error (MISE) as function of the classification threshold, logistic regression.*
+
 ## Authors ##
 + **Lorenzo LEONI**, postgraduate in Computer Engineering at University of Bergamo.
 + **Andrea TRESOLDI**, postgraduate in Computer Engineering at University of Bergamo.
